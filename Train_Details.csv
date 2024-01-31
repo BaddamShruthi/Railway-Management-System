@@ -1,0 +1,121 @@
+trainID,trainName,trainType,Capacity
+1,Express,Cargo,833
+2,Bullet,Passenger,932
+3,Thunder,Cargo,608
+4,Rapid,Passenger,806
+5,Lightning,Passenger,896
+6,Swift,Cargo,967
+7,Velocity,Passenger,541
+8,Jet,Passenger,770
+9,Rocket,Passenger,636
+10,Blaze,Cargo,940
+11,Sonic,Passenger,558
+12,Turbo,Cargo,778
+13,Flash,Cargo,909
+14,Zoom,Cargo,740
+15,Sprinter,Passenger,805
+16,Whirlwind,Passenger,834
+17,Hurricane,Passenger,942
+18,Tornado,Passenger,637
+19,Typhoon,Passenger,877
+20,Gale,Passenger,505
+21,Breeze,Cargo,709
+22,Zephyr,Cargo,713
+23,Momentum,Passenger,700
+24,Dash,Passenger,567
+25,Speedster,Passenger,878
+26,Champion,Cargo,810
+27,Victory,Cargo,990
+28,Triumph,Cargo,834
+29,Winner,Cargo,951
+30,Conqueror,Passenger,978
+31,Dominant,Passenger,646
+32,Supreme,Cargo,735
+33,Elite,Passenger,833
+34,Majestic,Cargo,832
+35,Powerhouse,Cargo,880
+36,Dynasty,Cargo,986
+37,Legacy,Cargo,759
+38,Grand Slam,Cargo,741
+39,Home Run,Passenger,939
+40,All-Star,Cargo,840
+41,Hall of Fame,Passenger,524
+42,Golden Glove,Passenger,747
+43,Silver Slugger,Passenger,611
+44,Cy Young,Passenger,805
+45,MVP,Passenger,888
+46,Rookie of the Year,Cargo,684
+47,Perfect Game,Passenger,577
+48,No-Hitter,Cargo,592
+49,World Series,Cargo,910
+50,Express,Cargo,969
+51,Bullet,Passenger,743
+52,Thunder,Cargo,849
+53,Rapid,Cargo,994
+54,Lightning,Passenger,808
+55,Swift,Cargo,856
+56,Velocity,Passenger,870
+57,Jet,Passenger,547
+58,Rocket,Cargo,545
+59,Blaze,Passenger,861
+60,Sonic,Cargo,593
+61,Turbo,Cargo,908
+62,Flash,Cargo,615
+63,Zoom,Passenger,927
+64,Sprinter,Cargo,630
+65,Whirlwind,Passenger,555
+66,Hurricane,Passenger,717
+67,Tornado,Cargo,608
+68,Typhoon,Cargo,517
+69,Gale,Cargo,953
+70,Breeze,Cargo,929
+71,Zephyr,Cargo,739
+72,Momentum,Cargo,832
+73,Dash,Cargo,736
+74,Speedster,Passenger,546
+75,Champion,Cargo,595
+76,Victory,Cargo,705
+77,Triumph,Cargo,916
+78,Winner,Cargo,940
+79,Conqueror,Passenger,917
+80,Dominant,Passenger,937
+81,Supreme,Cargo,548
+82,Elite,Cargo,834
+83,Majestic,Passenger,791
+84,Powerhouse,Cargo,500
+85,Dynasty,Cargo,929
+86,Legacy,Passenger,980
+87,Grand Slam,Cargo,829
+88,Home Run,Cargo,990
+89,All-Star,Passenger,721
+90,Hall of Fame,Cargo,749
+91,Golden Glove,Passenger,902
+92,Silver Slugger,Cargo,734
+93,Cy Young,Passenger,526
+94,MVP,Passenger,583
+95,Rookie of the Year,Cargo,758
+96,Perfect Game,Passenger,586
+97,No-Hitter,Cargo,672
+98,World Series,Passenger,806
+99,Express,Passenger,706
+100,Bullet,Passenger,718
+101,Thunder,Passenger,638
+102,Rapid,Cargo,604
+103,Lightning,Cargo,541
+104,Swift,Passenger,823
+105,Velocity,Cargo,588
+106,Jet,Cargo,502
+107,Rocket,Passenger,606
+108,Blaze,Passenger,671
+109,Sonic,Passenger,856
+110,Turbo,Cargo,855
+111,Flash,Cargo,509
+112,Zoom,Cargo,844
+113,Sprinter,Passenger,726
+114,Whirlwind,Cargo,917
+115,Hurricane,Passenger,739
+116,Tornado,Cargo,738
+117,Typhoon,Passenger,506
+118,Gale,Passenger,635
+119,Breeze,Cargo,982
+120,Zephyr,Cargo,732

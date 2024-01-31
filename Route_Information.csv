@@ -1,0 +1,121 @@
+routeID,Origin,Destination,Distance
+1,Kabakovo,Shengping,772.18
+2,Verkhniy Baskunchak,Trelleborg,112.37
+3,Blahodatne,Xieshui,372.32
+4,Dongtai,General Lavalle,187.93
+5,Kalinovskaya,Kotikawatta,238.31
+6,Ceerigaabo,Jiaokui,397.83
+7,Igcocolo,Yinyang,508.68
+8,Rucava,Millet,176.4
+9,El Limon,Woken,132.51
+10,Mabini,Oslo,274.61
+11,Lethbridge,Shewopo,346.83
+12,Lawesigalagala Timur,Santiago Nonualco,936.37
+13,Sayama,Fangjun,690.03
+14,Watergrasshill,Los Dos Caminos,764.78
+15,Tumauini,Umuarama,433.45
+16,Norashen,Concepción,464.86
+17,Yên Lạc,General Pico,995.06
+18,Jamaica,Elbasan,486.25
+19,Hongchang,Nong Yai,926.54
+20,Santa Ana,Urzuf,436.8
+21,Kembang,Vatutino,832.63
+22,Damaying,Al Ḩīlah,926.64
+23,Xiangquan,Pawing,742.54
+24,Fria,Várzea Grande,443.98
+25,Lyon,Zaña,181.7
+26,Providencia,Kitakyūshū,539
+27,Warmbaths,Olival Basto,918.69
+28,San Juan,La Loma,362.76
+29,Kokshetau,Huacheng,323.2
+30,Iracemápolis,São Vicente de Ferreira,231.74
+31,Croissy-sur-Seine,Leuwayang,993.77
+32,Palmerston North,Susapaya,591.6
+33,Giado,Nagbacalan,523.59
+34,Manghit,El Puerto,320.88
+35,Tomilino,Haoshui,210.17
+36,Hongmen,Zhajin,227.46
+37,Jiangtian,Bella Vista,438.2
+38,Benito Juarez,Vällingby,696.6
+39,Banjar Pangkungkarung Kangin,Aras-asan,815.44
+40,Zitong,Tul’chyn,498.6
+41,Soloneshnoye,Rybnoye,282.1
+42,Basel,Zlatoust,901.3
+43,Coelho Neto,Kaburon,258.85
+44,Owen Sound,Daji,521.2
+45,Luar,Forquilhinha,386.8
+46,Feitoria,Al Faḩāḩīl,510.89
+47,Qilong,Conduaga,469.19
+48,Mayuge,Hengjiang,932.61
+49,Psary,Silvino Lobos,142.45
+50,Jiandou,Mbocayaty,114.95
+51,Popayán,Libiąż,456.8
+52,Bastia,Heshui,996.35
+53,Las Trojes,Zouparria do Monte,474.42
+54,Qiaoxi,Banamba,892.17
+55,Dasanlian Lauk,Caluire-et-Cuire,738.57
+56,Cineumbeuy,Oliveira de Frades,891.72
+57,Hamar,Santo Anastácio,265.6
+58,San Agustin,Claveria,329.21
+59,Tsirang,Şirvan,821.7
+60,Nelahozeves,Itauguá,950.75
+61,El Aguacate,Shiki,525.13
+62,Asenovgrad,Lau,102.54
+63,Qa‘ţabah,Izyaslav,391
+64,Nīshābūr,Thetford-Mines,198.05
+65,Yakovlevskoye,Banyumas,793.26
+66,Moste,Obrenovac,662.82
+67,Radenković,Regente Feijó,294.53
+68,Tanūmah,Chicacao,993.45
+69,Níkiti,Al Hufūf,847.26
+70,Majunying,Pontinha,342.99
+71,Kanashevo,El Tablón,941.1
+72,Kalpáki,Kalmar,678.27
+73,Johor Bahru,Joaquín Suárez,722.75
+74,Bulubrangsi,Mayskiy,322.18
+75,Sere,Brampton,316.97
+76,Chepo,Calaba,317.36
+77,Yarīm,Cabrobó,236.98
+78,Ourentã,Aliuroba,456.35
+79,Resapombo,Mgandu,318.63
+80,Atarodangwautu,Zhen’an,701.7
+81,Zaraysk,Dula’er Ewenke Minzu,943.63
+82,Curug,Ovidiopol’,891.32
+83,Lame,Nakama,942.15
+84,Vellinge,Dūrā al Qar‘,837.16
+85,Santa Rosa,Askersund,422.5
+86,Kiev,Sharjah,581.28
+87,Tongchuan,Peuhaq,437.2
+88,Boawae,Līgatne,272.19
+89,Ashgabat,Nasīrābād,560.81
+90,Hidalgo,Nafada,616.63
+91,Methóni,Viçosa,362.07
+92,Sumuragung,Kveda Chkhorots’q’u,717.11
+93,Delray Beach,Ekasapta,480.36
+94,Aleshtar,São Miguel de Machede,712.76
+95,Westonaria,Helsingborg,599.04
+96,Cikijing,Åhus,716.93
+97,Extrema,Yuhang,544.52
+98,Eustaquio Lopez,Quinocay,998.53
+99,Gumdag,Радовиш,663.75
+100,Ciloa,Agenebode,858.33
+101,Vykhino-Zhulebino,Şaḩneh,748.67
+102,Dingshan,Raheny,701.29
+103,Delmas,Hadžići,314.24
+104,Yushang,Jiukeng,734.73
+105,Kabaty,Chwaszczyno,231.59
+106,Haicheng,Zyuzino,752.58
+107,Gorzkowice,Cauday,588.67
+108,Murillo,Preserje pri Radomljah,812.39
+109,Lipljan,Bissen,307.53
+110,Stockholm,Linares,741.16
+111,Reno,Tougan,281.61
+112,Limenária,Pak Phayun,402.87
+113,Kingston,Cimara,609.82
+114,Cungapmimbo,Niandou,845.19
+115,Lille,Bergen,662.81
+116,Lyubinskiy,Peterborough,798.66
+117,Villaba,Tulusmulyo,783.43
+118,Kinsealy-Drinan,Springfield,702.79
+119,Saint-Brieuc,Osiek nad Notecią,501.48
+120,Asopía,Sosnowiec,282.76

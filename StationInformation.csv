@@ -1,0 +1,121 @@
+stationID,stationName,Location,Amenities
+1,Grand Central Terminal,Olímpia,WiFi
+2,Penn Station,Jingtan,Elevator
+3,Union Station,Derbur,Restrooms
+4,King's Cross Station,Xinhui,Information Desk
+5,Shinjuku Station,Pedrogão,Luggage Carts
+6,Gare du Nord,Pervoural’sk,Restrooms
+7,Central Station,Tsimlyansk,Parking
+8,Tokyo Station,Magallon Cadre,Restrooms
+9,Chhatrapati Shivaji Terminus,Roissy Charles-de-Gaulle,ATM
+10,Beijing West Railway Station,Angoulême,Restrooms
+11,Changi Airport MRT Station,Dzhetygara,Escalator
+12,St Pancras International,Radvanice,WiFi
+13,Seoul Station,Shashi,Elevator
+14,Berlin Hauptbahnhof,Daxin,Escalator
+15,Zurich Hauptbahnhof,Babakanlapang,Elevator
+16,Helsinki Central Station,Afonsoeiro,ATM
+17,Moscow Kazansky railway station,Sanzhang,WiFi
+18,Milan Central Station,Sundsvall,Information Desk
+19,Vienna Hauptbahnhof,Bằng Lũng,Parking
+20,Barcelona Sants,Kanluran,ATM
+21,Grand Central Terminal,Mutum,Escalator
+22,Penn Station,Ash Shaykh Zuwayd,WiFi
+23,Union Station,Lukulu,Elevator
+24,King's Cross Station,Waegwan,ATM
+25,Shinjuku Station,Lomba do Loução,Information Desk
+26,Gare du Nord,Wierzbica,Information Desk
+27,Central Station,Serh,Information Desk
+28,Tokyo Station,Komysh-Zorya,ATM
+29,Chhatrapati Shivaji Terminus,Tenkodogo,Elevator
+30,Beijing West Railway Station,Cipanas,Escalator
+31,Changi Airport MRT Station,Udachny,ATM
+32,St Pancras International,Azilal,Information Desk
+33,Seoul Station,Stockholm,Restrooms
+34,Berlin Hauptbahnhof,Stoszowice,WiFi
+35,Zurich Hauptbahnhof,Rawannawi Village,Escalator
+36,Helsinki Central Station,Hino,Information Desk
+37,Moscow Kazansky railway station,Alcácer do Sal,ATM
+38,Milan Central Station,Manzë,ATM
+39,Vienna Hauptbahnhof,Lieyu,Food Court
+40,Barcelona Sants,Granard,Information Desk
+41,Grand Central Terminal,Chemal,Restrooms
+42,Penn Station,Bang Yai,Elevator
+43,Union Station,Oja,Food Court
+44,King's Cross Station,Juhaynah,Elevator
+45,Shinjuku Station,Pittsburgh,Information Desk
+46,Gare du Nord,Medveđa,Information Desk
+47,Central Station,Cobh,Parking
+48,Tokyo Station,Santa Fe,Luggage Carts
+49,Chhatrapati Shivaji Terminus,Ijero-Ekiti,Elevator
+50,Beijing West Railway Station,Gunan,Information Desk
+51,Changi Airport MRT Station,Çepan,Information Desk
+52,St Pancras International,Iberia,Luggage Carts
+53,Seoul Station,Dongxin,Information Desk
+54,Berlin Hauptbahnhof,San Juan del Surutú,Luggage Carts
+55,Zurich Hauptbahnhof,Zhen’an,WiFi
+56,Helsinki Central Station,Pantubig,Escalator
+57,Moscow Kazansky railway station,Meixian,Restrooms
+58,Milan Central Station,Talanga,Elevator
+59,Vienna Hauptbahnhof,Gorna Oryakhovitsa,Luggage Carts
+60,Barcelona Sants,Barrio San Luis,Information Desk
+61,Grand Central Terminal,Yinjiang,WiFi
+62,Penn Station,Bielawy,Luggage Carts
+63,Union Station,Magoúla,Information Desk
+64,King's Cross Station,Olhos de Água,WiFi
+65,Shinjuku Station,Halmstad,Luggage Carts
+66,Gare du Nord,Kibiya,Elevator
+67,Central Station,Ermelo,Information Desk
+68,Tokyo Station,Huazhou,Information Desk
+69,Chhatrapati Shivaji Terminus,Randusari,WiFi
+70,Beijing West Railway Station,Desa Borogojol,Luggage Carts
+71,Changi Airport MRT Station,Qarchī Gak,Parking
+72,St Pancras International,Pushchino,Elevator
+73,Seoul Station,Narsingdi,Elevator
+74,Berlin Hauptbahnhof,Koronowo,ATM
+75,Zurich Hauptbahnhof,Bayt Yāshūţ,Food Court
+76,Helsinki Central Station,Gasri,Parking
+77,Moscow Kazansky railway station,Huangshi,Luggage Carts
+78,Milan Central Station,Krasne,Food Court
+79,Vienna Hauptbahnhof,Candelaria,Information Desk
+80,Barcelona Sants,Qiaozhen,Food Court
+81,Grand Central Terminal,Komyshany,Information Desk
+82,Penn Station,Lota,ATM
+83,Union Station,Ibrā’,Elevator
+84,King's Cross Station,Ognevka,Elevator
+85,Shinjuku Station,Jiangwakou,Food Court
+86,Gare du Nord,Frederiksberg,Information Desk
+87,Central Station,Bobigny,Parking
+88,Tokyo Station,Kota Bharu,Restrooms
+89,Chhatrapati Shivaji Terminus,Dinjo,Escalator
+90,Beijing West Railway Station,Campbellton,WiFi
+91,Changi Airport MRT Station,Rennebu,Elevator
+92,St Pancras International,Xinshi,ATM
+93,Seoul Station,Quatre Bornes,Parking
+94,Berlin Hauptbahnhof,Noailles,WiFi
+95,Zurich Hauptbahnhof,Villa Nueva,Parking
+96,Helsinki Central Station,Fagersta,Escalator
+97,Moscow Kazansky railway station,Aix-en-Provence,ATM
+98,Milan Central Station,Canguaretama,Escalator
+99,Vienna Hauptbahnhof,Bamban,Restrooms
+100,Barcelona Sants,Ponta Porã,Luggage Carts
+101,Grand Central Terminal,Salsipuedes,Parking
+102,Penn Station,Rawson,Food Court
+103,Union Station,Sokol,WiFi
+104,King's Cross Station,El Corozo,Restrooms
+105,Shinjuku Station,Brest,Escalator
+106,Gare du Nord,Tagoloan,ATM
+107,Central Station,San Francisco,Restrooms
+108,Tokyo Station,Mokronog,Restrooms
+109,Chhatrapati Shivaji Terminus,Silvino Lobos,Information Desk
+110,Beijing West Railway Station,Dalong,Food Court
+111,Changi Airport MRT Station,Suhopolje,ATM
+112,St Pancras International,Rennes,Escalator
+113,Seoul Station,Paseh,Escalator
+114,Berlin Hauptbahnhof,Banhā,ATM
+115,Zurich Hauptbahnhof,Riyom,Elevator
+116,Helsinki Central Station,Losevo,WiFi
+117,Moscow Kazansky railway station,Sigou,Luggage Carts
+118,Milan Central Station,Kuwait City,Escalator
+119,Vienna Hauptbahnhof,Veguitas,Restrooms
+120,Barcelona Sants,Wajak,WiFi

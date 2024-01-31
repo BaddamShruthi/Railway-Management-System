@@ -1,0 +1,121 @@
+cargoID,Description,Weight,Source,Destination
+1,Electronics,24.86,Samur,Arlöv
+2,Clothing,211.93,Šventoji,Pedro Juan Caballero
+3,Furniture,152.33,Daliang,Karanganyar
+4,Books,321.64,La Asunción,Rambouillet
+5,Toys,251.3,Senduro,Virginia Beach
+6,Electronics,270.3,Sainte-Anne-des-Plaines,Florida
+7,Clothing,66.64,Guayaybi,Wuxihe
+8,Furniture,285.83,Kingston,Toride
+9,Books,363.69,Ning’er,Nangerang
+10,Toys,88.37,Tunis,Sacramento
+11,Electronics,93.69,Bafoulabé,Jalpatagua
+12,Clothing,104.85,Saint-Raymond,Guangsheng
+13,Furniture,429.86,Alexandria,Diancun
+14,Books,228.35,Rejanegara,Babice
+15,Toys,490.95,Poá,Grigiškės
+16,Electronics,124.01,Tsetsegnuur,Lüxiang
+17,Clothing,23.05,Puerto Eldorado,Parabcan
+18,Furniture,467.89,San Gabriel,Rosario
+19,Books,179.12,Turtas,Xiaoweizhai
+20,Toys,123.16,Figueiró dos Vinhos,Otjimbingwe
+21,Electronics,256.74,Paynjuwayn,Pital
+22,Clothing,401.13,Norakert,Jadów
+23,Furniture,53.35,Kumla,Sanjie
+24,Books,206.23,Gunjur,Dahe
+25,Toys,381.27,Oroquieta,Ciemas
+26,Electronics,236.46,Altay,Trojanów
+27,Clothing,13.59,Babakan,Adstock
+28,Furniture,467.13,São Bento do Sul,Martingança
+29,Books,21.22,Nîmes,Mtinko
+30,Toys,381.31,Anserma,Beiguoyuan
+31,Electronics,87.26,Presidente Venceslau,Daqiao
+32,Clothing,371.63,Dongtai,Sukasetia
+33,Furniture,194.61,Daqingshan,Bílovec
+34,Books,260.63,Ifanadiana,Coulommiers
+35,Toys,286.28,Canturay,Overyata
+36,Electronics,100.55,Jambean,Columbus
+37,Clothing,435.44,Quilino,Kāshān
+38,Furniture,54.35,Motrico,Issa
+39,Books,332.36,Lodan Wetan,Zalishchyky
+40,Toys,435.97,Dampit Satu,Verrettes
+41,Electronics,270.1,Masuda,Maxixe
+42,Clothing,334.99,Ponte Nova,Presidente Epitácio
+43,Furniture,212.92,Strazhitsa,Tieremu
+44,Books,242.86,Mariscala,Bebandem
+45,Toys,140.21,Muting,Sabnie
+46,Electronics,132.02,Shinshiro,Alcoutim
+47,Clothing,419.96,Wilmington,Bayeman
+48,Furniture,239.9,San Antonio,Coripata
+49,Books,384.89,La Libertad,Bílina Kyselka
+50,Toys,32.01,Gravelbourg,Zyablikovo
+51,Electronics,164.14,Gornji Grad,Krajandadapmulyo
+52,Clothing,189.82,Xieshui,Wuṯahpūr
+53,Furniture,65.27,Kaoma,Huze
+54,Books,305.17,Kisovec,Huajie
+55,Toys,262.25,Xijiadian,Karobokan
+56,Electronics,48.69,Iúna,Almeria
+57,Clothing,125.42,Klichaw,Djibo
+58,Furniture,306.86,Conde,Zwierzyniec
+59,Books,233.82,Kosonsoy,Banamba
+60,Toys,22.06,Palestina,Idvor
+61,Electronics,172.28,Cruzeiro,Vista Hermosa
+62,Clothing,363.71,Andrijevica,Orlando
+63,Furniture,272.23,Vũng Tàu,Östersund
+64,Books,166.84,Xinsheng,Narva-Jõesuu
+65,Toys,287.45,Kangdong-ŭp,Xicheng
+66,Electronics,330.67,San Sebastian,Türkmenbaşy
+67,Clothing,266.44,Santa Rosa de Lima,Aparecida do Taboado
+68,Furniture,49.06,Warung Wetan,Bilhorod-Dnistrovs’kyy
+69,Books,52.26,Viejo Daan Banua,Huajlaya
+70,Toys,414.42,Sunjia,Laventure
+71,Electronics,454.54,Popovo,Severobaykal’sk
+72,Clothing,445.81,Mashi,Kamimaruko
+73,Furniture,318.25,Verdun,Shengli
+74,Books,205.69,Goyang-si,Zlataritsa
+75,Toys,279.83,Lagos da Beira,Ōtawara
+76,Electronics,181.6,Kamionka Strumitowa,Butwāl
+77,Clothing,335.42,Claresholm,Valdice
+78,Furniture,470.84,Aranos,Taizi
+79,Books,355.02,Manglid,Cibeureum Satu
+80,Toys,84.52,Ilangay,Ahmadpur Siāl
+81,Electronics,352.64,Trawniki,Carodok
+82,Clothing,372.95,Taiping,Granada
+83,Furniture,433.3,Zhongguan,Kargowa
+84,Books,493.91,São João del Rei,Patrol
+85,Toys,443.5,Manukaka,Flórina
+86,Electronics,226.16,Karangasem Laok,Pawa
+87,Clothing,28.41,Ōmiya,Padaran
+88,Furniture,24.23,Quzhou,Lavezares
+89,Books,195.07,Pau,Hacıqabul
+90,Toys,457.83,Piteå,Quibdó
+91,Electronics,212.6,Jingdezhen,Atbasar
+92,Clothing,189,Daqiao,Limulan
+93,Furniture,103.08,Rezovac,Quỳnh Côi
+94,Books,419.83,Jendouba,Pandat
+95,Toys,274.9,Darvi,Gbawe
+96,Electronics,301.5,Longjing,Kochenëvo
+97,Clothing,374.39,Aksu,Karangpawitan
+98,Furniture,120.46,Saue,Atlanta
+99,Books,78.97,Havre-Saint-Pierre,Miranda
+100,Toys,393.64,Quintela,Abbottābād
+101,Electronics,200.61,Sumberagung,Dadong’ao
+102,Clothing,145.57,Itapetinga,Risālpur
+103,Furniture,344.43,Narganá,Hengshan
+104,Books,346.61,Cácota,Temuji
+105,Toys,277.66,Huangling,Surcubamba
+106,Electronics,314.64,Bishan,Bor
+107,Clothing,368.89,Suzëmka,Miramichi
+108,Furniture,136.7,Jieshou,Isakly
+109,Books,266.4,Zelenokumsk,Tapacocha
+110,Toys,92.53,Zator,Wuxue Shi
+111,Electronics,217.02,Geghanist,Apuri
+112,Clothing,124.62,Burgas,Yangchao
+113,Furniture,459.35,Saint-Quentin-en-Yvelines,Tupã
+114,Books,235.75,Sarzedo,Monte Patria
+115,Toys,420.99,Pendiqing,Zherdevka
+116,Electronics,0.57,Si Somdet,Iberia
+117,Clothing,184.49,Glushkovo,Fuwah
+118,Furniture,189.39,Battaramulla South,Palmira
+119,Books,311.23,Kozlovice,Campanário
+120,Toys,307.96,Raheny,Makurdi
